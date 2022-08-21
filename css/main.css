@@ -1,0 +1,8 @@
+img {
+  height: 300px;
+  object-fit: cover;
+}
+
+.navbar {
+  background-color: rgb(0, 0, 0 , 1);
+}
